@@ -1,3 +1,7 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
 .header {
   background: rgba(255, 140, 0, 0.8);
   padding: 20px;
@@ -5,6 +9,7 @@
 }
 
 .header__title {
+  font-family: 'Lobster', cursive;
   border: 2px solid black;
   padding: 20px;
 }
